@@ -37,6 +37,6 @@ Browser & WebDriver (ChromeDriver, GeckoDriver, etc.)
 
 Clone the Repository
 
-git clone https://github.com/yourusername/amazon-automation.git
+git clone https://github.com/AnkitBohra12/amazon-automation.git
 cd amazon-automation
 
